@@ -14,7 +14,7 @@
 | Esdras Wilfredo Pérez Coloma  | 7690-14-6737  |
 
 <!-- Enlaces -->
-[Tienda en línea con IA](http://192.99.68.88/wordpress/ "Ir a la tienda en línea")
+<!-- [Tienda en línea con IA](http://192.99.68.88/wordpress/ "Ir a la tienda en línea")  -->
 
 <!-- Lista de material de apoyo (Sofware)-->
 ### Material de apoyo (Software):
