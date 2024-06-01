@@ -50,7 +50,18 @@
 ![Rollos](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20de%20productos/Rollos.jpg?raw=true "Rollos")
 ![Sprite](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20de%20productos/Sprite.jpg?raw=true "Sprite")
 
-
 * Capturas de usuarios:
 ![Captura3](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20de%20usuarios/Captura3.PNG?raw=true "Captura3")
 ![Captura6](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20de%20usuarios/Captura6.PNG?raw=true "Captura6")
+
+* Capturas de proyecto y reuniones:
+![captura1](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura1.png?raw=true "captura1")
+![captura2](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura2.png?raw=true "captura2")
+![captura3](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura3.png?raw=true "captura3")
+![captura4](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura4.png?raw=true "captura4")
+![captura5](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura5.png?raw=true "captura5")
+![captura6](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura6.png?raw=true "captura6")
+![captura7](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura7.png?raw=true "captura7")
+![captura8](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura8.jpeg?raw=true "captura8")
+![captura9](https://github.com/UMGVg/AdmoTec_Proyecto3/blob/main/Capturas%20del%20proyecto/captura9.jpg?raw=true "captura9")
+
